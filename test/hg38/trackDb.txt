@@ -1,7 +1,7 @@
 track GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interaction_group
 type bigInteract
 visibility full
-shortLabel highh-order interactions
+shortLabel high-order interactions
 longLabel GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interaction_group
 maxHeightPixels 300:150:20
 bigDataUrl data/bigInteract/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interaction_group.inter.bb
