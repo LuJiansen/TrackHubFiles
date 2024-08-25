@@ -8,8 +8,8 @@ bigDataUrl data/bigInteract/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interactio
 
 
 track GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts
-type Bed
+type bigBed
 visibility squish
 shortLabel high-order contacts
 longLabel GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts
-bigDataUrl data/bed/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts.bed
+bigDataUrl data/bed/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts.bb
