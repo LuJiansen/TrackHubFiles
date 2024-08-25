@@ -5,3 +5,11 @@ shortLabel exInteract
 longLabel test interact track
 maxHeightPixels 300:150:20
 bigDataUrl data/bigInteract/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interaction_group.inter.bb
+
+
+track GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts
+type bed
+visibility squish
+shortLabel highh-order contacts
+longLabel GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts
+bigDataUrl data/bed/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts.bed
