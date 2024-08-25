@@ -14,3 +14,12 @@ itemRgb On
 shortLabel high-order contacts
 longLabel GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts
 bigDataUrl data/bigBed/GM12878_H3K4me3_HiCUT_LW_120ng_high_order_contacts.bb
+
+
+track GM12878_H3K4me3_HiCUT_LW_120ng_FitHiChIP_COV_0.01_merged
+type bigInteract
+visibility full
+shortLabel FitHiChIP COV merged
+longLabel GM12878_H3K4me3_HiCUT_LW_120ng_FitHiChIP_COV_0.01_merged
+maxHeightPixels 300:150:20
+bigDataUrl data/bigInteract/GM12878_H3K4me3_HiCUT_LW_120ng_COV.interactions_FitHiC_Q0.01_MergeNearContacts_UCSC.bb
