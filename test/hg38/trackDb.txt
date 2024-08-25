@@ -1,8 +1,8 @@
-track exampleInteractTrack
+track GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interaction_group
 type bigInteract
 visibility full
 shortLabel exInteract
-longLabel Example interact track
+longLabel test interact track
 spectrum on
 maxHeightPixels 300:150:20
 bigDataUrl GM12878_H3K4me3_HiCUT_LW_120ng_high_order_interaction_group.inter.bb
